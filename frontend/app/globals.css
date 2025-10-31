@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+/* Custom theme colors */
+.primary {
+  background-color: #01af4f;
+  color: white;
+}
+
+.primary:hover {
+  background-color: #019a46;
+}
+
+.secondary {
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.secondary:hover {
+  background-color: #e9ecef;
+}
+
+.text-primary {
+  color: #01af4f;
+}
+
+.border-primary {
+  border-color: #01af4f;
+}
